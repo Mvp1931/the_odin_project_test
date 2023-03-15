@@ -3,7 +3,7 @@
 My Submissions in The Odin Projects.
 Hello to Odin Project from windows!
 
-- **chnagelog**:
+- **changelog**:
 	- Added HTML Pages.
 	- added strong and emphasis tags.
 	- added Paragraphs.
