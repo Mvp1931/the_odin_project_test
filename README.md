@@ -9,3 +9,6 @@ Hello to Odin Project from windows!
 	- added Paragraphs.
 	- added interpage and external Hyperlinks.
 	- added proper headings.
+	- added lists.
+	- added images.
+	- added comments.

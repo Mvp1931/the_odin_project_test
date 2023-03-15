@@ -1,3 +1,13 @@
 Hello from Windows pc!!
 good luck on github project :-)
 This line is added from windows machine from VSCode.
+
+following edits are from the windws machine : 
+1. added html pages. 
+2. usage of tags.
+3. usage of links.
+4. usage of bold and italic texts.
+5. usage of paragraphs.
+6. usage of breakpoints.
+7. usage of lists
+
